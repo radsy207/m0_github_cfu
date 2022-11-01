@@ -1,0 +1,1 @@
+All of my git commands are stored in my notepad.
